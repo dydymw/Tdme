@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tdme</string>
+    <string name="send">发送</string>
+
+    <string-array name="welcome_tips">
+        <item>你好</item>
+        <item>hello</item>
+        <item>皮皮你好</item>
+        <item>瓜皮你好</item>
+
+    </string-array>
+
+</resources>
